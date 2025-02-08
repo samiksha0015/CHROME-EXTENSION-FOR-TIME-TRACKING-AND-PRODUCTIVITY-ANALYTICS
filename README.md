@@ -1,5 +1,23 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
+**COMPANY**:CODTECH IT SOLUTIONS PVT.LTD
+
+**NAME** : Samiksha Kavduji Raipure
+
+**INTRN ID**: CT08MCU
+
+**DOMAIN**:Full Stack Web Development
+
+**BATCH DURATION** :January 15th, 2025 to February 15th, 2025.
+
+**MENTOR NAME **: NEELA SANTOSH
+
+**output**
+# Run Locally
+1.Clone the project
+
+
+
 
 ![Image](https://github.com/user-attachments/assets/b76c9b4d-c0a3-4c00-9dba-3301628c00c4)
 
