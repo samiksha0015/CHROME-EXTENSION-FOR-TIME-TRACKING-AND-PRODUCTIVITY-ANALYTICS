@@ -15,7 +15,7 @@
 **Project discription**
 # Run Locally
 1.Clone the project
-# https://github.com/samiksha0015/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
+https://github.com/samiksha0015/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 2.Open browser
 
 
