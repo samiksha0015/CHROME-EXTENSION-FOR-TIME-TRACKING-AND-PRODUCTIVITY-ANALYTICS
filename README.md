@@ -50,3 +50,9 @@ Select the folder Time-Analytics
  
   
   Done - Now you can start using the extension
+
+
+
+  **OUTPUT**
+
+  ![Image](https://github.com/user-attachments/assets/7b37d31d-e152-4f7a-9141-9ee227ec0797)
